@@ -1,0 +1,1 @@
+This file is here just for debug logging. To turn it on set the $debug variable to true in the plugin file.
